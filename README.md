@@ -80,5 +80,3 @@ This project was collaboratively developed by a team of developers to practice G
 
 ---
 
-## License
-[MIT License](LICENSE)
