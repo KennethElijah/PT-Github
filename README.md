@@ -22,13 +22,7 @@ This application is ideal for:
 - Unique usernames for each participant.
 
 ### 3. **Chat Room Functionality**
-- Single or multiple chat rooms for organized conversations.
-
-### 4. **Responsive Design**
-- Works seamlessly across different devices (desktop, tablet, mobile).
-
-### 5. **Message Storage (Optional)**
-- Temporary message storage for active sessions.
+- Single chat room for organized conversations.
 
 ---
 
@@ -52,7 +46,7 @@ ChatApp/
 
 ### 1. **Clone the Repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/KennethElijah/PT-Github.git
 cd ChatApp
 ```
 
@@ -65,7 +59,7 @@ cd ChatApp
   ```
 
 ### 3. **Access the Chat App**
-- Navigate to `localhost:<port>` (if using a local server).
+- Navigate to https://pt-101chatapp.web.app/.
 
 ---
 
@@ -76,15 +70,8 @@ cd ChatApp
 - Managing user sessions and preventing duplicate usernames.
 
 ### Solutions Implemented
-- Leveraged WebSocket for real-time data transmission.
-- Validated usernames on both client and server sides.
-
----
-
-## Future Enhancements
-- Add private messaging functionality.
-- Implement message history storage using a database.
-- Enhance the user interface with more customization options.
+- Firebase for real-time data transmission.
+- Unique usernames on both client and server sides.
 
 ---
 
