@@ -31,13 +31,10 @@ This application is ideal for:
 ChatApp/
 ├── index.html          # Entry point of the application
 ├── homepage.html       # Main chat interface
-├── styles/             # Directory for CSS files
-│   └── style.css       # Styling for the application
-├── scripts/            # Directory for JavaScript files
-│   └── app.js          # Handles application logic
-├── server/             # (Optional) Backend server files
-│   └── server.js       # Server logic for real-time communication
-└── assets/             # Images, icons, and other assets
+├── style.css           # Styling for the application
+├── script.js           # Handles login page logic
+├── homepage.js         # Handles chat interface logic
+└── Pictures/           # Images, icons, and other assets
 ```
 
 ---
