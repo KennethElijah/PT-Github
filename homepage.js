@@ -130,4 +130,3 @@ module.sendMsg = function sendMsg() {
 
     msgTxt.value = ""; // Clear the input field after sending
 };
-
