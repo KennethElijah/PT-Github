@@ -15,9 +15,9 @@ const firebaseConfig = {
  
   // Initialize Firebase
   const app = initializeApp(firebaseConfig);
-
   const auth=getAuth();
   const db=getFirestore();
+  const realTimeDb = getDatabase(app);
 
   onAuthStateChanged(auth, (user)=>{
     const loggedInUserId=localStorage.getItem('loggedInUserId');
