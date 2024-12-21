@@ -53,8 +53,8 @@ a {
 
 button {
   border-radius: 20px;
-  border: 1px solid #82EEFD;
-  background-color: #82EEFD;
+  border: 1px solid #CECAAD;
+  background-color: #CECAAD;
   color: #ffffff;
   font-size: 12px;
   font-weight: bold;
@@ -184,8 +184,8 @@ input {
 
 .overlay {
   background: #82EEFD;
-  background: -webkit-linear-gradient(to right, #82EEFD,  #1560BD);
-  background: linear-gradient(to right, #82EEFD,  #1560BD);
+  background: -webkit-linear-gradient(to right, #CECAAD,  #405940);
+  background: linear-gradient(to right, #CECAAD,  #405940);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0 0;
@@ -257,7 +257,7 @@ input {
   width: 40px;
 }
 .messageDiv{
-background-color: #82EEFD;
+background-color: #CECAAD;
 color: #333;
 padding: 10px 20px;
 margin: 10px;
